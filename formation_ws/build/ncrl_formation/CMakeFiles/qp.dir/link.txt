@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libqp.so -o /home/ubuntu/formation_ws/devel/lib/libqp.so CMakeFiles/qp.dir/include/flight_control/qptrajectory.cpp.o  -lpython3.8 

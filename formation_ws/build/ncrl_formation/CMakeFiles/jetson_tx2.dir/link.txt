@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libjetson_tx2.so -o /home/ubuntu/formation_ws/devel/lib/libjetson_tx2.so CMakeFiles/jetson_tx2.dir/include/flight_control/jetsonTX2GPIO.cpp.o 
